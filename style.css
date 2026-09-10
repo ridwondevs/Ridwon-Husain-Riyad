@@ -15,13 +15,13 @@ html {
 body {
     font-family: "Inter", sans-serif;
     background: #050812;
-    color: #f8fafc;
+    color: #fdfefe;
     line-height: 1.6;
     overflow-x: hidden;
 }
 
 body.light {
-    background: #f5f7ff;
+    background: #f7f8f8;
     color: #111827;
 }
 
@@ -195,7 +195,7 @@ textarea {
 
     background: transparent;
 
-    color: white;
+    color: rgb(7, 7, 7);
 
     cursor: pointer;
 }
@@ -207,7 +207,7 @@ textarea {
 
     padding: 12px 20px;
 
-    color: white;
+    color: rgb(12, 12, 12);
 
     border-radius: 12px;
 
@@ -1838,3 +1838,61 @@ body.light .contact-item p {
      background-size: cover;
      
  }
+
+   .pro{
+    height: 100%;
+    width: 100%;
+     background: url('shari.png');
+     background-size: cover;
+     
+ }
+
+
+  .jec{
+    height: 100%;
+    width: 100%;
+     background: url('e-co.png');
+     background-size: cover;
+     
+ }
+
+ .ject{
+    height: 100%;
+    width: 100%;
+     background: url('res.png');
+     background-size: cover;
+     
+ }
+
+ .G{
+    height: 100%;
+    width: 100%;
+     background: url('run.png');
+     background-size: cover;
+     
+ }
+
+ .A{
+    height: 100%;
+    width: 100%;
+     background: url('car.png');
+     background-size: cover;
+     
+ }
+
+  .M{
+    height: 100%;
+    width: 100%;
+     background: url('sutter.png');
+     background-size: cover;
+     
+ }
+
+ .E{
+    height: 100%;
+    width: 100%;
+     background: url('sap.png');
+     background-size: cover;
+     
+ }
+

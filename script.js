@@ -287,12 +287,12 @@ themeButton.addEventListener(
     function () {
 
         document.body.classList.toggle(
-            "light"
+            "#8c6f43"
         );
 
         const isLight =
             document.body.classList.contains(
-                "light"
+                ""
             );
 
 
